@@ -41,14 +41,15 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/aakash536b79/">
-    <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="35px" />
-  </a>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" />
+  </a> &nbsp; <!-- Adds space between icons -->
   <a href="https://www.instagram.com/xynaxhere/">
-    <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="39px" />
+    <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="35px" />
   </a>
-</div>
+</p>
+
 
 
 
