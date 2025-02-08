@@ -9,8 +9,10 @@
 <div align = "center">
 
 ## :bust_in_silhouette: About Me
-<!-- &nbsp; -->
+&nbsp;
+<p align = "center">
 Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning ideas into impactful projects. I'm currently exploring machine learning and striving to build creative solutions with a unique touch. When I'm not coding, you'll find me brainstorming new ways to add value to my projects. Beyond coding, I love listening to music, drawing, editing, and exploring the art of cinematography. Let's connect if you're interested in collaborating or simply sharing ideas!
+</p>
 </div>
 
 
@@ -38,22 +40,19 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
     ![vscode](https://api.statusbadges.me/badge/vscode/697499988636205137)
     ![playing](https://api.statusbadges.me/badge/playing/697499988636205137)
     ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/697499988636205137)
-    [![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137)](https://api.statusbadges.me/openspotify/697499988636205137)
+    ![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137)
 
 </div>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/aakash536b79/" style="text-decoration: none;">
-        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e"  width="33px" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/xynaxhere/" style="text-decoration: none;">
-        <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="37px" />
-    </a>
-    &nbsp;
-    <!-- <a href="https://x.com/">
-        <img src="https://github.com/user-attachments/assets/2d07aad5-db78-4e18-9b63-7fb8d455b02e" width="35px" />
-    </a> -->
-    &nbsp;
+  <a href="https://www.linkedin.com/in/aakash536b79/">
+    <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="33px" />
+  </a>
+  &nbsp; <!-- Space between the two icons -->
+  <a href="https://www.instagram.com/xynaxhere/">
+    <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="37px" />
+  </a>
 </p>
+
+
 
