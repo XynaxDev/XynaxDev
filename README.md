@@ -43,12 +43,12 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 </div>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/aakash536b79/">
-        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="33px" />
+    <a href="https://www.linkedin.com/in/aakash536b79/" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e"  width="33px" />
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/xynaxhere/">
-        <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="35px" />
+    <a href="https://www.instagram.com/xynaxhere/" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="37px" />
     </a>
     &nbsp;
     <!-- <a href="https://x.com/">
