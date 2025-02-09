@@ -45,9 +45,14 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 <div align = "center">
 
 ##  📊 My Statistics
+
 <a href="https://github.com/XynaxDev/">
-        <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true&/" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true&/" />
+</a>
+
+<a href="https://github.com/XynaxDev/">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+</a>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -72,16 +77,18 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 </div>
 
 
-<p align="center">
+<div align="center">
+
+<!-- ## Social -->
 &nbsp;
     <a href="https://www.instagram.com/xynaxhere/">
         <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="36px" />
     </a>
     <a href="https://www.linkedin.com/in/aakash536b79/">
-        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="34px" />
+        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="33px" />
     </a>
   
-</p>
+</div>
 
 
 
