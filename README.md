@@ -44,8 +44,7 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 
 <div align = "center">
 
-##  🏮 My Statistics
-
+##  📊 My Statistics
 <a href="https://github.com/XynaxDev/">
         <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true&/" />
     </a>
@@ -71,6 +70,7 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 </div>
+
 
 <p align="center">
 &nbsp;
