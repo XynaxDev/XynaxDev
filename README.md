@@ -47,7 +47,7 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 ##  🏮 My Statistics
 
 <a href="https://github.com/XynaxDev/">
-        <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true&/" />
     </a>
 
 ## 💻 Tech Stack
