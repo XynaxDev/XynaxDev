@@ -8,7 +8,7 @@
 
 <div align = "center">
 
-## :bust_in_silhouette: About Me
+## :bust_in_silhouette: About Me 
 Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning ideas into impactful projects. I'm currently exploring machine learning and striving to build creative solutions with a unique touch. When I'm not coding, you'll find me brainstorming new ways to add value to my projects. Beyond coding, I love listening to music, drawing, editing, and exploring the art of cinematography. Let's connect if you're interested in collaborating or simply sharing ideas!
 </div>
 
@@ -41,14 +41,15 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
     ![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137)
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=XynaxDev&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar116" /> </p>
 
 <div align = "center">
 
 ##  📊 My Statistics
 
-<a href="https://github.com/XynaxDev/">
+<!-- <a href="https://github.com/XynaxDev/">
     <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true&/" />
-</a>
+</a> -->
 
 <a href="https://github.com/XynaxDev/">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
@@ -71,7 +72,7 @@ Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning idea
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 </div>
