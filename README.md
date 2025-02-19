@@ -8,8 +8,8 @@
 
 <div align = "center">
 
-## :bust_in_silhouette: About Me 
-Hello! 👋 I'm Aakash, a passionate coder from India, dedicated to turning ideas into impactful projects. I'm currently exploring machine learning and striving to build creative solutions with a unique touch. When I'm not coding, you'll find me brainstorming new ways to add value to my projects. Beyond coding, I love listening to music, drawing, editing, and exploring the art of cinematography. Let's connect if you're interested in collaborating or simply sharing ideas!
+## :bust_in_silhouette: About Me
+Hello! 👋 I'm Aakash, also known as Xynax—a passionate coder from India, dedicated to turning ideas into impactful projects. I'm currently exploring machine learning and striving to build creative solutions with a unique touch. When I'm not coding, you'll find me brainstorming new ways to add value to my projects. Beyond coding, I love listening to music and exploring the art of cinematography. Let's connect if you're interested in collaborating or simply sharing ideas!
 </div>
 
 
