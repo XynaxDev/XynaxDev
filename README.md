@@ -41,7 +41,7 @@ Hello! 👋 I'm Aakash, also known as Xynax—a passionate coder from India, ded
     ![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137)
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=XynaxDev&label=Profile%20views&color=0e75b6&style=flat" alt="XynaxDev" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=XynaxDev&label=Profile%20views&color=0e75b6&style=flat" alt="XynaxDev" /> </p> -->
 
 <div align = "center">
 
