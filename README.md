@@ -2,7 +2,7 @@
     <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="max-width: 100%; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); clip-path: inset(0 0 0 0 round 15px);"/>
 </p>
 
-<h3 align="center">Aakash</h3>
+<!-- <h3 align="center">Aakash</h3> -->
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=24&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
@@ -18,8 +18,7 @@
 <div align="center">
 <h2> 🧑‍💻 About Me</h2>
 
-Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.<br>
-I’m experimenting with machine learning models and creating visuals to show data clearly. I’m working on improving my skills in artificial intelligence, data analysis, and web tools, and I want to team up with others on projects that use data to make a real impact.
+Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.
 
 <h2 align="center">⚡Stats</h2>
 <p>
@@ -29,7 +28,7 @@ I’m experimenting with machine learning models and creating visuals to show da
 </p>
 </div>
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">🔖 T3ch Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffd43b&style=flat-square-round" alt="Python" height="28" />
@@ -56,26 +55,30 @@ I’m experimenting with machine learning models and creating visuals to show da
 </div>
 
 
-<h2 align="center"> 🔗 Connect with Me</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/aakass7/" title="LinkedIn">
-        <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 5px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 10px;" />
     </a>
     <a href="https://www.instagram.com/xynaxhere/" title="Instagram">
-        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 10px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 px;" />
     </a>
     <a href="https://github.com/XynaxDev" title="GitHub">
         <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="40px" alt="GitHub" style="margin: 0 10px;" />
     </a>
-    <a href="https://<your-portfolio-url>" title="Portfolio">
+    <!-- <a href="https://<your-portfolio-url>" title="Portfolio">
         <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="40px" alt="Portfolio" style="margin: 0 10px;" />
     </a>
     <a href="https://twitter.com/<your-username>" title="Twitter">
         <img src="https://img.icons8.com/3d-fluency/94/x.png" width="40px" alt="Twitter" style="margin: 0 10px;" />
-    </a>
+    </a> -->
 </p>
 
 <p align="center">
-    <i>Join me to build awesome data-driven projects!</i>
+    <i>If you’re into building cool stuff, learning from each other, or starting something meaningful—hit me up. Let’s build something awesome together.</i>
 </p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/XynaxDev/count.svg?"  />
+</div>
