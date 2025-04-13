@@ -5,7 +5,7 @@
 <h3 align="center">Aakash | Xynax</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=_&size=26&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=24&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
 </p>
 
 <p align="center">
