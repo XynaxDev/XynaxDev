@@ -1,7 +1,5 @@
-<p align="center">
-    <div style="display: inline-block; border-radius: 15px; overflow: hidden;">
-        <img src="./assets/banner.png?v=1" alt="Xynax's Enchanted Realm" style="border-radius: 15px !important; max-width: 100%; box-shadow: 0 4px 16px rgba(124, 58, 237, 0.8), 0 0 8px rgba(124, 58, 237, 0.8); clip-path: inset(0 0 0 0 round 15px); transform: translateZ(0); display: block;"/>
-    </div>
+<p align="center" style="border-radius: 15px">
+    <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="max-width: 100%; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); clip-path: inset(0 0 0 0 round 15px);"/>
 </p>
 
 <h3 align="center">Aakash | Xynax</h3>
