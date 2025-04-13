@@ -2,7 +2,7 @@
     <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="max-width: 100%; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); clip-path: inset(0 0 0 0 round 15px);"/>
 </p>
 
-<h3 align="center">Aakash | Xynax</h3>
+<h3 align="center">Aakash</h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=24&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
@@ -18,8 +18,7 @@
 <div align="center">
 <h2> 🧑‍💻 About Me</h2>
 
-Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.
-
+Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.<br>
 I’m experimenting with machine learning models and creating visuals to show data clearly. I’m working on improving my skills in artificial intelligence, data analysis, and web tools, and I want to team up with others on projects that use data to make a real impact.
 
 <h2 align="center">⚡Stats</h2>
