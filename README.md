@@ -31,7 +31,7 @@ I’m experimenting with machine learning models and creating visuals to show da
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" height="30" />
     <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" height="30" />
     <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="30" />
@@ -53,7 +53,7 @@ I’m experimenting with machine learning models and creating visuals to show da
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="30" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" /><br>
     <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="30" />
-</p>
+</div>
 
 
 <h2 align="center"> 🔗 Connect with Me</h2>
