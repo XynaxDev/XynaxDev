@@ -31,39 +31,48 @@ I’m experimenting with machine learning models and creating visuals to show da
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" height="30" />
-    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" height="30" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="30" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff" alt="Matplotlib" height="30" /><br>
-    <img src="https://img.shields.io/badge/Seaborn-3C8DAD?logo=seaborn&logoColor=white" alt="Seaborn" height="30" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" height="30" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" height="30" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" height="30" /><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30" />
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" height="30" />
-    <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white" alt="Jinja" height="30" /><br>
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="30" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" height="30" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30" /><br>
-    <img src="https://img.shields.io/badge/Sqlite-07405e?logo=sqlite&logoColor=white" alt="SQLite" height="30" />
-    <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git" height="30" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="30" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" /><br>
-    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="30" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffd43b&style=flat-square-round" alt="Python" height="28" />
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square-round" alt="NumPy" height="28" />
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square-round" alt="Pandas" height="28" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff&style=flat-square-round" alt="Matplotlib" height="28" />
+    <img src="https://img.shields.io/badge/Seaborn-3C8DAD?logo=seaborn&logoColor=white&style=flat-square-round" alt="Seaborn" height="28" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square-round" alt="scikit-learn" height="28" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square-round" alt="Power BI" height="28" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square-round" alt="Tableau" height="28" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square-round" alt="HTML5" height="28" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square-round" alt="CSS3" height="28" />
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square-round" alt="Flask" height="28" />
+    <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white&style=flat-square-round" alt="Jinja" height="28" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square-round" alt="C++" height="28" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square-round" alt="C" height="28" />
+    <img src="https://img.shields.io/badge/Java-F28C38?logo=openjdk&logoColor=white&style=flat-square-round" alt="Java" height="28" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square-round" alt="MySQL" height="28" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square-round" alt="SQLite" height="28" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square-round" alt="Git" height="28" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square-round" alt="GitHub" height="28" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square-round" alt="VS Code" height="28" />
+    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square-round" alt="Markdown" height="28" />
 </div>
 
 
 <h2 align="center"> 🔗 Connect with Me</h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/aakass7/">
-        <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38px" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/aakass7/" title="LinkedIn">
+        <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 5px;" />
     </a>
-    <a href="https://www.instagram.com/xynaxhere/">
-        <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="38px" alt="Instagram" />
+    <a href="https://www.instagram.com/xynaxhere/" title="Instagram">
+        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 10px;" />
+    </a>
+    <a href="https://github.com/XynaxDev" title="GitHub">
+        <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="40px" alt="GitHub" style="margin: 0 10px;" />
+    </a>
+    <a href="https://<your-portfolio-url>" title="Portfolio">
+        <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="40px" alt="Portfolio" style="margin: 0 10px;" />
+    </a>
+    <a href="https://twitter.com/<your-username>" title="Twitter">
+        <img src="https://img.icons8.com/3d-fluency/94/x.png" width="40px" alt="Twitter" style="margin: 0 10px;" />
     </a>
 </p>
 
