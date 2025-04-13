@@ -1,96 +1,81 @@
+<p align="center">
+    <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="border-radius: 15px; max-width: 90%; box-shadow: 0 6px 18px rgba(124, 58, 237, 0.4); animation: glow 2s ease-in-out infinite alternate;"/>
+</p>
+
+<style>
+@keyframes glow {
+    from { box-shadow: 0 6px 18px rgba(124, 58, 237, 0.4); }
+    to { box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); }
+}
+
+</style>
+
+<h3 align="center">Aakash | Xynax</h3>
 
 <p align="center">
-    <a href="https://www.xynaxdev.xyz/">
-        <img src="./assets/banner.png" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=_&size=26&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
+</p>
+
+<p align="center">
+    <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
+    <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
+    <img src="https://api.statusbadges.me/badge/spotify/697499988636205137" alt="Spotify" />
+    <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137" alt="Crunchyroll" />
+</p>
+
+<div align="center">
+<h2> 🧑‍💻 About Me</h2>
+
+Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.
+
+I’m experimenting with machine learning models and creating visuals to show data clearly. I’m working on improving my skills in artificial intelligence, data analysis, and web tools, and I want to team up with others on projects that use data to make a real impact.
+
+<h2 align="center">⚡Stats</h2>
+<p>
+    <a href="https://github.com/XynaxDev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
     </a>
+</p>
+</div>
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" height="24" />
+    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" height="24" />
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="24" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff" alt="Matplotlib" height="24" /><br>
+    <img src="https://img.shields.io/badge/Seaborn-3C8DAD?logo=seaborn&logoColor=white" alt="Seaborn" height="24" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" height="24" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" height="24" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" height="24" /><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="24" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="24" />
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" height="24" />
+    <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white" alt="Jinja" height="24" /><br>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="24" />
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="24" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" height="24" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="24" /><br>
+    <img src="https://img.shields.io/badge/Sqlite-07405e?logo=sqlite&logoColor=white" alt="SQLite" height="24" />
+    <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git" height="24" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="24" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" height="24" /><br>
+    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="24" />
 </p>
 
 
-<div align = "center">
+<h2 align="center"> 🔗 Connect with Me</h2>
 
-## :bust_in_silhouette: About Me
-Hello! 👋 I'm Aakash, also known as Xynax—a passionate coder from India, dedicated to turning ideas into impactful projects. I'm currently exploring machine learning and striving to build creative solutions with a unique touch. When I'm not coding, you'll find me brainstorming new ways to add value to my projects. Beyond coding, I love listening to music and exploring the art of cinematography. Let's connect if you're interested in collaborating or simply sharing ideas!
-</div>
-
-
-<!-- <div>
-
-##  🏮 My Statistics
-&nbsp;
 <p align="center">
-    <a href="https://github.com/XynaxDev/">
-        <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    <a href="https://www.linkedin.com/in/aakass7/">
+        <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38px" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/XynaxDev/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynaxDev&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
-    </a>
-    <a href="https://github.com/XynaxDev/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>
-</p> 
-</div> -->
-
-
-<div align = "center">
-
-&nbsp;
-    ![status](https://api.statusbadges.me/badge/status/697499988636205137)
-    ![vscode](https://api.statusbadges.me/badge/vscode/697499988636205137)
-    ![playing](https://api.statusbadges.me/badge/playing/697499988636205137)
-    ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/697499988636205137)
-    ![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137)
-</div>
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=XynaxDev&label=Profile%20views&color=0e75b6&style=flat" alt="XynaxDev" /> </p> -->
-
-<div align = "center">
-
-##  📊 My Statistics
-
-<!-- <a href="https://github.com/XynaxDev/">
-    <img src="https://github-readme-stats.vercel.app/api?username=XynaxDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true&/" />
-</a> -->
-
-<a href="https://github.com/XynaxDev/">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-</a>
-
-## 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</br>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
-
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
-</div>
-
-
-<div align="center">
-
-<!-- ## Social -->
-&nbsp;
     <a href="https://www.instagram.com/xynaxhere/">
-        <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="36px" />
+        <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="38px" alt="Instagram" />
     </a>
-    <a href="https://www.linkedin.com/in/aakash536b79/">
-        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="33px" />
-    </a>
-  
-</div>
+</p>
 
-
-
+<p align="center">
+    <i>Join me to build awesome data-driven projects!</i>
+</p>
