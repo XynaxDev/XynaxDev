@@ -32,27 +32,27 @@ I’m experimenting with machine learning models and creating visuals to show da
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" height="24" />
-    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" height="24" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="24" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff" alt="Matplotlib" height="24" /><br>
-    <img src="https://img.shields.io/badge/Seaborn-3C8DAD?logo=seaborn&logoColor=white" alt="Seaborn" height="24" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" height="24" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" height="24" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" height="24" /><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="24" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="24" />
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" height="24" />
-    <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white" alt="Jinja" height="24" /><br>
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="24" />
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="24" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" height="24" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="24" /><br>
-    <img src="https://img.shields.io/badge/Sqlite-07405e?logo=sqlite&logoColor=white" alt="SQLite" height="24" />
-    <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git" height="24" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="24" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" height="24" /><br>
-    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="24" />
+    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" height="30" />
+    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" height="30" />
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="30" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff" alt="Matplotlib" height="30" /><br>
+    <img src="https://img.shields.io/badge/Seaborn-3C8DAD?logo=seaborn&logoColor=white" alt="Seaborn" height="30" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" height="30" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" height="30" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" height="30" /><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30" />
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" height="30" />
+    <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white" alt="Jinja" height="30" /><br>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="30" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" height="30" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30" /><br>
+    <img src="https://img.shields.io/badge/Sqlite-07405e?logo=sqlite&logoColor=white" alt="SQLite" height="30" />
+    <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git" height="30" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="30" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" /><br>
+    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="30" />
 </p>
 
 
