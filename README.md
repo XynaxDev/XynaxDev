@@ -38,26 +38,26 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding:0; margin:0; gap: 15px;">
-    <img title="Python" alt="Python" src="assets/python.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="MySQL" alt="MySQL" src="assets/mysql.png" width="40" height="40" style="vertical-align:down"/>
-    <img title="C++" alt="C++" src="assets/c++.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Java" alt="Java" src="assets/java.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="C" alt="C" src="assets/c.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Numpy" alt="Numpy" src="assets/numpy.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Pandas" alt="Pandas" src="assets/pandas.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Matplotlib" alt="Matplotlib" src="assets/matplotlib.svg" width="100" height="40" style="vertical-align:down"/>
-    <img title="Seaborn" alt="Seaborn" src="assets/seaborn.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Scikit Learn" alt="Scikit Learn" src="assets/scikitlearn.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="PowerBI" alt="PowerBI" src="assets/powerbi.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Tableau" alt="Tableau" src="assets/tableau.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="HTML" alt="HTML" src="assets/html.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="CSS" alt="CSS" src="assets/css.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Flask" alt="Flask" src="assets/flask.svg" width="40" height="40" style="vertical-align:top; margin:4px scale:0.5"/>
-    <img title="Sqlite" alt="Sqlite" src="assets/sqlite.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Git" alt="Git" src="assets/git.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Github" alt="Github" src="assets/github.svg" width="40" height="40" style="vertical-align:down"/>
-    <img title="Markdown" alt="Markdown" src="assets/md.png" width="40" height="40" style="vertical-align:down"/>
-    <img title="VSCode" alt="VSCode" src="assets/vscode.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Python" alt="Python" src="assets/python.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="MySQL" alt="MySQL" src="assets/mysql.png" width="60" height="60" style="vertical-align:down"/>
+    <img title="C++" alt="C++" src="assets/c++.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Java" alt="Java" src="assets/java.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="C" alt="C" src="assets/c.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Numpy" alt="Numpy" src="assets/numpy.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Pandas" alt="Pandas" src="assets/pandas.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Matplotlib" alt="Matplotlib" src="assets/matplotlib.svg" width="120" height="60" style="vertical-align:down"/>
+    <img title="Seaborn" alt="Seaborn" src="assets/seaborn.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Scikit Learn" alt="Scikit Learn" src="assets/scikitlearn.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="PowerBI" alt="PowerBI" src="assets/powerbi.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Tableau" alt="Tableau" src="assets/tableau.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="HTML" alt="HTML" src="assets/html.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="CSS" alt="CSS" src="assets/css.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Flask" alt="Flask" src="assets/flask.svg" width="60" height="60" style="vertical-align:top; margin:4px scale:0.5"/>
+    <img title="Sqlite" alt="Sqlite" src="assets/sqlite.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Git" alt="Git" src="assets/git.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Github" alt="Github" src="assets/github.svg" width="60" height="60" style="vertical-align:down"/>
+    <img title="Markdown" alt="Markdown" src="assets/md.png" width="60" height="60" style="vertical-align:down"/>
+    <img title="VSCode" alt="VSCode" src="assets/vscode.svg" width="60" height="60" style="vertical-align:down"/>
 </div>
 
 
@@ -74,10 +74,10 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
         <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="40px" alt="GitHub" style="margin: 0 10px;" />
     </a>
     <!-- <a href="https://<your-portfolio-url>" title="Portfolio">
-        <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="40px" alt="Portfolio" style="margin: 0 10px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="60px" alt="Portfolio" style="margin: 0 10px;" />
     </a>
     <a href="https://twitter.com/<your-username>" title="Twitter">
-        <img src="https://img.icons8.com/3d-fluency/94/x.png" width="40px" alt="Twitter" style="margin: 0 10px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/x.png" width="60px" alt="Twitter" style="margin: 0 10px;" />
     </a> -->
 </p>
 
