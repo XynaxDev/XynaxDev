@@ -37,7 +37,7 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding:0; margin:0; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding:0; margin:0; gap: 20px;">
     <img title="Python" alt="Python" src="assets/python.svg" width="60" height="60" style="vertical-align:down"/>
     <img title="MySQL" alt="MySQL" src="assets/mysql.png" width="60" height="60" style="vertical-align:down"/>
     <img title="C++" alt="C++" src="assets/c++.svg" width="60" height="60" style="vertical-align:down"/>
