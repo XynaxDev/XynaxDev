@@ -2,9 +2,6 @@
     <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="max-width: 100%; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); clip-path: inset(0 0 0 0 round 15px);"/>
 </p>
 
-![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
-![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
-
 <!-- <h3 align="center">Aakash</h3> -->
 
 <p align="center">
@@ -23,7 +20,10 @@
 
 Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.
 
-<h2 align="center">⚡Stats</h2>
+![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
+![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
+
+<h2 align="center">Stats</h2>
 <p>
     <a href="https://github.com/XynaxDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
@@ -31,13 +31,13 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 </p>
 </div>
 
-<h2 align="center">🔖 T3ch Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding:0; margin:0; gap: 8px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding:0; margin:0; gap: 15px;">
     <img title="Python" alt="Python" src="assets/python.svg" width="40" height="40" style="vertical-align:down"/>
     <img title="MySQL" alt="MySQL" src="assets/mysql.png" width="40" height="40" style="vertical-align:down"/>
     <img title="C++" alt="C++" src="assets/c++.svg" width="40" height="40" style="vertical-align:down"/>
