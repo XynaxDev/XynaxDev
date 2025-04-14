@@ -2,6 +2,9 @@
     <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="max-width: 100%; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); clip-path: inset(0 0 0 0 round 15px);"/>
 </p>
 
+![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
+![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
+
 <!-- <h3 align="center">Aakash</h3> -->
 
 <p align="center">
@@ -30,28 +33,31 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 
 <h2 align="center">🔖 T3ch Stack</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffd43b&style=flat-square-round" alt="Python" height="28" />
-    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square-round" alt="NumPy" height="28" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square-round" alt="Pandas" height="28" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=ffffff&style=flat-square-round" alt="Matplotlib" height="28" />
-    <img src="https://img.shields.io/badge/Seaborn-3C8DAD?logo=seaborn&logoColor=white&style=flat-square-round" alt="Seaborn" height="28" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square-round" alt="scikit-learn" height="28" />
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square-round" alt="Power BI" height="28" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square-round" alt="Tableau" height="28" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square-round" alt="HTML5" height="28" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square-round" alt="CSS3" height="28" />
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square-round" alt="Flask" height="28" />
-    <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white&style=flat-square-round" alt="Jinja" height="28" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square-round" alt="C++" height="28" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square-round" alt="C" height="28" />
-    <img src="https://img.shields.io/badge/Java-F28C38?logo=openjdk&logoColor=white&style=flat-square-round" alt="Java" height="28" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square-round" alt="MySQL" height="28" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square-round" alt="SQLite" height="28" />
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square-round" alt="Git" height="28" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square-round" alt="GitHub" height="28" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square-round" alt="VS Code" height="28" />
-    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square-round" alt="Markdown" height="28" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding:0; margin:0; gap: 8px;">
+    <img title="Python" alt="Python" src="assets/python.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="MySQL" alt="MySQL" src="assets/mysql.png" width="40" height="40" style="vertical-align:down"/>
+    <img title="C++" alt="C++" src="assets/c++.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Java" alt="Java" src="assets/java.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="C" alt="C" src="assets/c.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Numpy" alt="Numpy" src="assets/numpy.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Pandas" alt="Pandas" src="assets/pandas.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Matplotlib" alt="Matplotlib" src="assets/matplotlib.svg" width="100" height="40" style="vertical-align:down"/>
+    <img title="Seaborn" alt="Seaborn" src="assets/seaborn.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Scikit Learn" alt="Scikit Learn" src="assets/scikitlearn.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="PowerBI" alt="PowerBI" src="assets/powerbi.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Tableau" alt="Tableau" src="assets/tableau.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="HTML" alt="HTML" src="assets/html.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="CSS" alt="CSS" src="assets/css.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Flask" alt="Flask" src="assets/flask.svg" width="40" height="40" style="vertical-align:top; margin:4px scale:0.5"/>
+    <img title="Sqlite" alt="Sqlite" src="assets/sqlite.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Git" alt="Git" src="assets/git.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Github" alt="Github" src="assets/github.svg" width="40" height="40" style="vertical-align:down"/>
+    <img title="Markdown" alt="Markdown" src="assets/md.png" width="40" height="40" style="vertical-align:down"/>
+    <img title="VSCode" alt="VSCode" src="assets/vscode.svg" width="40" height="40" style="vertical-align:down"/>
 </div>
 
 
@@ -78,7 +84,3 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 <p align="center">
     <i>If you’re into building cool stuff, learning from each other, or starting something meaningful—hit me up. Let’s build something awesome together.</i>
 </p>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/XynaxDev/count.svg?"  />
-</div>
