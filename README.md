@@ -17,7 +17,9 @@
 <h3> About Me <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3>
 
 
-Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.
+<p align="center">
+    Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
+</p>
 
 ![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
 ![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
@@ -60,7 +62,7 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 
 
 <p align="center">
-    <i>If you’re into building cool stuff, learning from each other, or starting something meaningful—hit me up. Let’s build something awesome together.</i>
+    <i>I’m <b>deeply passionate</b> about creating <b>innovative solutions</b> and bringing <b>impactful ideas</b> to life. If you’re excited to build something <b>truly extraordinary</b> or collaborate on a <b>meaningful project</b>, let’s connect and create something <b>remarkable</b>.</i>
 </p>
 
 <p align="center">
