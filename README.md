@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "300px" style="border-radius: 20px; margin-bottom: 10px">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "250px" style="border-radius: 20px !important; margin-bottom: 20px">
 
 <!-- <h3 align="center">Aakash</h3> -->
 
@@ -22,7 +22,7 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 ![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
 ![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
 
-<h3 align="center">Stats <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwMTA1NzEsIm5iZiI6MTc0NTAxMDI3MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE4VDIxMDQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlMTAwYzg2ZmRkYWQwZTBmM2I4YTdlOTAzMTY1NmYzNDJiZWQ2M2ViMTY1ZTkzZWE0MzU3MDZmMTZkNDNlYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fPf130-2FknTkUgw_255EhbxL0VwJmBkqiH0yA1LOSk" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
+<h3 align="center">Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
 <p>
     <a href="https://github.com/XynaxDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" />
