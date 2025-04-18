@@ -65,7 +65,7 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 
 <p align="center">
     <a href="https://www.linkedin.com/in/aakass7/" title="LinkedIn">
-        <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 10px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 5px;" />
     </a>
     <a href="https://www.instagram.com/xynaxhere/" title="Instagram">
         <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 5px;" />
