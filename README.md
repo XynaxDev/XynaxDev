@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "210px" style="border-radius: 20px; margin-bottom: 10px">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "300px" style="border-radius: 20px; margin-bottom: 10px">
 
 <!-- <h3 align="center">Aakash</h3> -->
 
