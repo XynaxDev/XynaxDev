@@ -1,6 +1,4 @@
-<p align="center" style="border-radius: 15px">
-    <img src="./assets/banner.png" alt="Xynax's Enchanted Realm" style="max-width: 100%; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.6); clip-path: inset(0 0 0 0 round 15px);"/>
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "210px" style="border-radius: 20px; margin-bottom: 10px">
 
 <!-- <h3 align="center">Aakash</h3> -->
 
@@ -16,14 +14,15 @@
 </p>
 
 <div align="center">
-<h3> About Me</h3>
+<h3> About Me <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3>
+
 
 Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India hooked on <b>Machine Learning</b> and <b>Data Science</b>. I dig into algorithms and data to create projects that solve problems and open new doors. When I’m not coding, I’m chilling with music or soaking up cinematography’s storytelling vibe.
 
 ![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
 ![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
 
-<h3 align="center">Stats</h3>
+<h3 align="center">Stats <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwMTA1NzEsIm5iZiI6MTc0NTAxMDI3MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE4VDIxMDQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlMTAwYzg2ZmRkYWQwZTBmM2I4YTdlOTAzMTY1NmYzNDJiZWQ2M2ViMTY1ZTkzZWE0MzU3MDZmMTZkNDNlYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fPf130-2FknTkUgw_255EhbxL0VwJmBkqiH0yA1LOSk" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
 <p>
     <a href="https://github.com/XynaxDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" />
@@ -31,7 +30,7 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 </p>
 </div>
 
-<h3 align="center">My Skills include</h3>
+<h3 align="center">My Skills include <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
@@ -57,7 +56,8 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
 </div>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <p align="center">
     <i>If you’re into building cool stuff, learning from each other, or starting something meaningful—hit me up. Let’s build something awesome together.</i>
