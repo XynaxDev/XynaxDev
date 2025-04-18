@@ -68,10 +68,13 @@ Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India ho
         <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 10px;" />
     </a>
     <a href="https://www.instagram.com/xynaxhere/" title="Instagram">
-        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="40px" alt="Instagram" style="margin: 0 5px;" />
     </a>
     <a href="https://github.com/XynaxDev" title="GitHub">
-        <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="40px" alt="GitHub" style="margin: 0 10px;" />
+        <img src="https://img.icons8.com/3d-fluency/94/github-logo.png" width="40px" alt="GitHub" style="margin: 0 5px;" />
+    </a>
+    <a href="mailto:akashkumar.cs27@gmail.com" title="Gmail">
+        <img src="https://img.icons8.com/fluency/48/mail--v1.png" width="40px" alt="GitHub" style="margin: 0 5px;" />
     </a>
     <!-- <a href="https://<your-portfolio-url>" title="Portfolio">
         <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="50px" alt="Portfolio" style="margin: 0 10px;" />
