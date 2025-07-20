@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
+    Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
 </p>
 
 ![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
@@ -55,6 +55,10 @@
     <img title="Github" alt="Github" src="assets/github.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
     <img title="Markdown" alt="Markdown" src="assets/md.png" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
     <img title="VSCode" alt="VSCode" src="assets/vscode.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Jupyter" alt="Jupyter" src="assets/jupyter.png" width="50" height="60" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Kaggle" alt="Kaggle" src="assets/Kaggle.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Stack Overflow" alt="Stack Overflow" src="assets/Stack Overflow.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Selenium" alt="Selenium" src="assets/Selenium.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
 </div>
 <br>
 
