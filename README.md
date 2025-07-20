@@ -56,9 +56,9 @@
     <img title="Markdown" alt="Markdown" src="assets/md.png" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
     <img title="VSCode" alt="VSCode" src="assets/vscode.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
     <img title="Jupyter" alt="Jupyter" src="assets/jupyter.png" width="50" height="60" style="vertical-align:down; margin: 0 10px"/>
-    <img title="Kaggle" alt="Kaggle" src="assets/Kaggle.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
-    <img title="Stack Overflow" alt="Stack Overflow" src="assets/Stack Overflow.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
-    <img title="Selenium" alt="Selenium" src="assets/Selenium.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Kaggle" alt="Kaggle" src="assets/Kaggle.svg" width="45" height="45" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Stack Overflow" alt="Stack Overflow" src="assets/Stack Overflow.svg" width="45" height="45" style="vertical-align:down; margin: 0 10px"/>
+    <img title="Selenium" alt="Selenium" src="assets/Selenium.svg" width="45" height="45" style="vertical-align:down; margin: 0 10px"/>
 </div>
 <br>
 
