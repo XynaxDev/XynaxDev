@@ -7,17 +7,17 @@
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Borel&size=40&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=
-🛠️+Building+Data+Science+Solutions;
-💌+Creating+Smart+Algorithms;
-🔍+Coding+Intelligent+Systems;
-🚀+Exploring+AI+Projects;
-🧾+Engineering+ML+Applications;
-🤖+Developing+AI+Technologies;
-💡+Crafting+Data+Insights" alt="Typing SVG" />
++Building+Data+Science+Solutions;
++Creating+Smart+Algorithms;
++Coding+Intelligent+Systems;
++Exploring+AI+Projects;
++Engineering+ML+Applications;
++Developing+AI+Technologies;
++Crafting+Data+Insights" alt="Typing SVG" />
 </p>
 
 <div align="center">
-<p style="font-size:35px;font-weight:bold"> <i>About Me</i> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></p>
+<h3 style="font-size:35px;font-weight:bold"> <i>About Me</i> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3>
 
 
 
@@ -35,7 +35,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 
-<p style="font-size:35px;font-weight:bold"> <i>Stats</i>📄</p>
+<h3 style="font-size:35px;font-weight:bold"> <i>Stats</i> 📄</h3>
 
 <p>
     <a href="https://github.com/XynaxDev/">
@@ -44,7 +44,7 @@
 </p>
 </div>
 
-<p align="center" style="font-size:35px;font-weight:bold; background: linear-gradient(135deg, #24292e 0%, #40484e 100%)"><i> Tech Stack </i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: center; margin-left:5px"/></p>
+<h3 align="center" style="font-size:35px;font-weight:bold"><i> My Skills include </i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: center; margin-left:5px"/></h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
