@@ -10,8 +10,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=Xynax&section=header&fontColor=1F1F1F"/>
 </p>
 
-<div style="display: inline-block; padding: 8px 16px; background: #4b4b4bff; border: 2px solid #333; border-radius: 15px 5px 10px 20px; transform: rotate(-1deg); box-shadow: 3px 3px 8px rgba(0,0,0,0.2); font-family: 'Comic Sans MS', cursive; font-weight: bold;">
-  About Me
+<div style="display: inline-block; padding: 8px; background: #4b4b4bff; border: 2px solid #333; border-radius: 15px 5px 10px 20px; font-weight: bold;">
+ about me
 </div>
 
 <div align="center">
