@@ -1,41 +1,42 @@
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "250px" style="border-radius: 20px !important; margin-bottom: 20px"> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <!-- <h3 align="center">Aakash</h3> -->
+<br>
 
-<!-- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=24&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
-</p> -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Borel&size=40&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=
+🛠️+Building+Data+Science+Solutions;
+💌+Creating+Smart+Algorithms;
+🔍+Coding+Intelligent+Systems;
+🚀+Exploring+AI+Projects;
+🧾+Engineering+ML+Applications;
+🤖+Developing+AI+Technologies;
+💡+Crafting+Data+Insights" alt="Typing SVG" />
+</p>
 
-```bash
-███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗         ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║         ████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║         ██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║         ██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
-██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
+<div align="center">
+<p style="font-size:35px;font-weight:bold"> <i>About Me</i> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></p>
 
-<!-- <p align="center">
+
+
+<p align="center" style="font-size:16px">
+    Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
+</p>
+
+<p align="center">
     <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
     <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
     <img src="https://api.statusbadges.me/badge/spotify/697499988636205137" alt="Spotify" />
     <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137" alt="Crunchyroll" />
-</p> -->
-
-<div align="center">
-<h3> About Me <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3>
-
-
-<p align="center">
-    Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 
-<h3 align="center">Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
+<p style="font-size:35px;font-weight:bold"> <i>Stats</i>📄</p>
+
 <p>
     <a href="https://github.com/XynaxDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" />
@@ -43,7 +44,7 @@
 </p>
 </div>
 
-<h3 align="center">My Skills include <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
+<p align="center" style="font-size:35px;font-weight:bold; background: linear-gradient(135deg, #24292e 0%, #40484e 100%)"><i> Tech Stack </i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: center; margin-left:5px"/></p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
