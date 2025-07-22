@@ -1,4 +1,6 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "250px" style="border-radius: 20px !important; margin-bottom: 20px">
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "250px" style="border-radius: 20px !important; margin-bottom: 20px"> -->
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="50%"/>
 
 <!-- <h3 align="center">Aakash</h3> -->
 
@@ -21,8 +23,8 @@
     Hey! 👋 I’m <b>Aakash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
 </p>
 
-![License](https://img.shields.io/github/license/XynaxDev/XynaxDev)
-![ViewCount](https://visitor-badge.laobi.icu/badge?page_id=XynaxDev.XynaxDev&color=green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
+![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 
 <h3 align="center">Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h3>
 <p>
