@@ -2,20 +2,19 @@
 
 <!-- <h3 align="center">Aakash</h3> -->
 
-<!-- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=24&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
-</p> -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=Xynax&section=header&fontColor=1F1F1F"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&size=24&duration=3000&pause=1000&color=DB1CFF&center=true&vCenter=true&width=480&lines=Building+Machine+Learning+Models;Creating+Data+Visualizations;Coding+Data+Solutions;Advancing+AI+Innovations" alt="Typing SVG" />
 </p>
 
-<div style="display: inline-block; padding: 8px; background: #4b4b4bff; border: 2px solid #333; border-radius: 15px 5px 10px 20px; font-weight: bold;">
- about me
-</div>
+<p align="center">
+    <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
+    <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
+    <img src="https://api.statusbadges.me/badge/spotify/697499988636205137" alt="Spotify" />
+    <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137" alt="Crunchyroll" />
+</p>
 
 <div align="center">
-<!-- <h3> About Me <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3> -->
+<h3> About Me <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3>
 
 
 <p align="center">
