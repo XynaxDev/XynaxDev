@@ -13,11 +13,11 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=44&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=70&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=34&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg)
 
 
 <div align="center">
-<h1 style="font-size:35px;font-weight:bold"> <i>About Me</i> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1>
+<h1 style="font-size:35px;font-weight:bold"> <b>About Me</b> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1>
 
 
 
@@ -29,7 +29,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 
-<h1 style="font-size:35px;font-weight:bold"> <i>Stats</i> 🛠️</h1>
+<h1 style="font-size:35px;font-weight:bold"> <b>Stats</b> 🛠️</h1>
 
 <p>
     <a href="https://github.com/XynaxDev/">
@@ -38,7 +38,7 @@
 </p>
 </div>
 
-<h1 align="center" style="font-size:35px;font-weight:bold"><i> Tech Stack </i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h1>
+<h1 align="center" style="font-size:35px;font-weight:bold"><b> Tech Stack </b> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
