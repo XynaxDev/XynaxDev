@@ -5,17 +5,6 @@
 <!-- <h3 align="center">Aakash</h3> -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=40&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg)
-
-<div align="center">
-<h3 style="font-size:35px;font-weight:bold"> <i>About Me</i> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h3>
-
-
-
-<p align="center" style="font-size:16px">
-    Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
-</p>
-
 <p align="center">
     <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
     <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
@@ -23,10 +12,24 @@
     <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137" alt="Crunchyroll" />
 </p>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=40&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=40&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg)
+
+
+<div align="center">
+<h1 style="font-size:35px;font-weight:bold"> <i>About Me</i> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1>
+
+
+
+<p align="center" style="font-size:16px">
+    Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
+</p>
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 
-<h3 style="font-size:35px;font-weight:bold"> <i>Stats</i> 🛠️</h3>
+<h1 style="font-size:35px;font-weight:bold"> <i>Stats</i> 🛠️</h1>
 
 <p>
     <a href="https://github.com/XynaxDev/">
@@ -35,7 +38,7 @@
 </p>
 </div>
 
-<h3 align="center" style="font-size:35px;font-weight:bold"><i> My Skills include </i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: center; margin-left:5px"/></h3>
+<h1 align="center" style="font-size:35px;font-weight:bold"><i> Tech Stack </i> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
