@@ -25,7 +25,7 @@
 <!-- <h1 style="font-size:35px;font-weight:bold"> <b>About Me</b> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1> -->
 
 
-<img style="margin: 10px 0px" src="assets/about.png" alt="about-me" />
+<img style="margin: 10px 0px;" height=70px src="assets/about.png" alt="about-me" />
 
 
 <p align="center" style="font-size:16px">
