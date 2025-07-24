@@ -27,22 +27,14 @@
 
 <img style="margin: 20px 0px;" height=70px src="assets/about.png" alt="about-me" />
 
-<table>
-  <tr>
-    <td width="160">
-      <img src="assets/octocat1.png" width="150px" alt="octocat">
-    </td>
-    <td>
-      <p>
-        Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>.
-        I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation.
-        Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
-      </p>
-    </td>
-  </tr>
-</table>
-
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: left;">
+  <img src="assets/octocat1.png" height="270px" alt="octocat" style="flex-shrink: 0;">
+  <p style="font-size: 16px; max-width: 500px; margin: 0;">
+    Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>.
+    I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation.
+    Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
+  </p>
+</div>
 
 
 <img src="assets/metrics.png" style="margin: 20px 0px;" height=70px alt="metrics" />
