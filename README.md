@@ -4,20 +4,18 @@
 
 <!-- <h3 align="center">Aakash</h3> -->
 <br>
-<br>
 
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
-![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
-</div>
 <p align="center">
     <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
     <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
     <img src="https://api.statusbadges.me/badge/spotify/697499988636205137" alt="Spotify" />
     <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137" alt="Crunchyroll" />
 </p>
+<div align="center">
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
+![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
+</div>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=34&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg) -->
 
