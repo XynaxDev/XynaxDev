@@ -10,6 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 </div>
+
 <p align="center">
     <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
     <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
@@ -25,23 +26,24 @@
 <!-- <h1 style="font-size:35px;font-weight:bold"> <b>About Me</b> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1> -->
 
 
-<img style="margin: 10px 0px;" height=70px src="assets/about.png" alt="about-me" />
+<img style="margin: 20px 0px;" height=70px src="assets/about.png" alt="about-me" />
 
 
 <p align="center" style="font-size:16px">
     Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
 </p>
 
-<img src="assets/metrics.png" alt="about-me" />
+<img src="assets/metrics.png" style="margin: 20px 0px;" height=70px alt="metrics" />
 
 <p>
     <a href="https://github.com/XynaxDev/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" style="margin: 10px 0px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" />
     </a>
 </p>
+
+<img src="assets/toolbox.png" height=70px alt="toolbox" />
 </div>
 
-<img src="assets/toolbox.png" alt="about-me" />
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
