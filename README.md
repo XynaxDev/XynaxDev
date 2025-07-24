@@ -32,7 +32,7 @@
     Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>. I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation. Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
 </p>
 
-<h1 style="font-size:35px;font-weight:bold"> <b>Stats</b> 🛠️</h1>
+<img src="assets/about.svg" alt="about-me" />
 
 <p>
     <a href="https://github.com/XynaxDev/">
@@ -41,7 +41,7 @@
 </p>
 </div>
 
-<h1 align="center" style="font-size:35px;font-weight:bold"><b> Tech Stack </b> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: bottom; margin-left:5px"/></h1>
+<img src="assets/toolbox.png" alt="about-me" />
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img title="Python" alt="Python" src="assets/python.svg" width="50" height="50" style="vertical-align:down; margin: 0 10px"/>
