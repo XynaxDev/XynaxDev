@@ -1,5 +1,6 @@
+<div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "280px" >
-
+</div>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/> -->
 
 <!-- <h3 align="center">Aakash</h3> -->
