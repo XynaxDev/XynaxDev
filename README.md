@@ -87,7 +87,7 @@
 </div>
 
 <p align="center">
-    <i>I’m <b>deeply passionate</b> about creating <b>innovative solutions</b> and bringing <b>impactful ideas</b> to life. If you’re excited to build something <b>truly extraordinary</b> or collaborate on a <b>meaningful project</b>, let’s connect and create something <b>remarkable</b>.</i>
+    I’m <b><i>deeply passionate</i></b> about creating <i><b>innovative solutions</b></i> and bringing <i><b>impactful ideas</b></i> to life. If you’re excited to build something <i><b>truly extraordinary</b></i> or collaborate on a <i><b>meaningful project</b></i>, let’s connect and create something <i><b>remarkable</b>.</i>
 </p>
 
 <p align="center">
