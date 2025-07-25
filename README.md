@@ -79,6 +79,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<div align=center>
+<img style="margin: 10px 0px;" height=70px src="assets/connect.png" alt="about-me" />
+</div>
 
 <p align="center">
     <i>I’m <b>deeply passionate</b> about creating <b>innovative solutions</b> and bringing <b>impactful ideas</b> to life. If you’re excited to build something <b>truly extraordinary</b> or collaborate on a <b>meaningful project</b>, let’s connect and create something <b>remarkable</b>.</i>
