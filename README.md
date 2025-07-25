@@ -16,21 +16,23 @@
 
 <img style="margin: 10px 0px;" height=100px src="assets/about.png" alt="about-me" />
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
+![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
+
 <p align="center">
     <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
     <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
     <img src="https://api.statusbadges.me/badge/spotify/697499988636205137" alt="Spotify" />
     <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137" alt="Crunchyroll" />
 </p>
-<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
-![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 </div>
 
+
+<div align="center">
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: left;">
-  <img src="assets/octocat1.png" height="270px" alt="octocat" style="flex-shrink: 0;">
-  <p style="font-size: 16px; max-width: 500px; margin: 0;">
+  <!-- <img src="assets/octocat1.png" height="270px" alt="octocat" style="flex-shrink: 0;"> -->
+  <p align= center style="font-size: 16px; max-width: 500px; margin: 0;">
     Hey! 👋 I’m <b>Akash</b>, also known as <b>Xynax</b>, a coder from India driven by <b>Artificial Intelligence, Machine Learning</b> and <b>Data Science</b>.
     I love diving into complex algorithms and transforming data into <b>impactful projects</b> that solve problems and inspire innovation.
     Off the keyboard, I’m either vibing to music or immersed in the storytelling craft of cinematography.
