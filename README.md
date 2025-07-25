@@ -6,6 +6,16 @@
 <!-- <h3 align="center">Aakash</h3> -->
 <br>
 
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=34&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg) -->
+
+
+<div align="center">
+<!-- <h1 style="font-size:35px;font-weight:bold"> <b>About Me</b> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1> -->
+
+
+<img style="margin: 10px 0px;" height=100px src="assets/about.png" alt="about-me" />
+
 <p align="center">
     <img src="https://api.statusbadges.me/badge/status/697499988636205137" alt="Status" />
     <img src="https://api.statusbadges.me/badge/vscode/697499988636205137" alt="VSCode" />
@@ -17,15 +27,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 </div>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=34&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg) -->
-
-
-<div align="center">
-<!-- <h1 style="font-size:35px;font-weight:bold"> <b>About Me</b> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1> -->
-
-
-<img style="margin: 20px 0px;" height=70px src="assets/about.png" alt="about-me" />
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: left;">
   <img src="assets/octocat1.png" height="270px" alt="octocat" style="flex-shrink: 0;">
