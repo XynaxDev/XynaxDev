@@ -90,8 +90,8 @@
     I’m <b><i>deeply passionate</i></b> about creating <i><b>innovative solutions</b></i> and bringing <i><b>impactful ideas</b></i> to life. If you’re excited to build something <i><b>truly extraordinary</b></i> or collaborate on a <i><b>meaningful project</b></i>, let’s connect and create something <i><b>remarkable</b>.</i>
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/aakass7/" title="LinkedIn">
+<div align="center">
+    <!-- <a href="https://www.linkedin.com/in/aakass7/" title="LinkedIn">
         <img src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" width="40px" alt="LinkedIn" style="margin: 0 5px;" />
     </a>
     <a href="https://www.instagram.com/xynaxhere/" title="Instagram">
@@ -102,14 +102,23 @@
     </a>
     <a href="mailto:akashkumar.cs27@gmail.com" title="Gmail">
         <img src="https://img.icons8.com/fluency/48/mail--v1.png" width="40px" alt="GitHub" style="margin: 0 5px;" />
-    </a>
-    <!-- <a href="https://<your-portfolio-url>" title="Portfolio">
+    </a> -->
+
+[![LinkedIn](https://img.icons8.com/3d-fluency/50/linkedin--v2.png)](https://www.linkedin.com/in/akass7/)
+[![Instagram](https://img.icons8.com/3d-fluency/50/instagram-new.png)](https://www.instagram.com/xynaxhere/)
+[![GitHub](https://img.icons8.com/3d-fluency/50/github-logo.png)](https://github.com/XynaxDev/)
+[![Mail](https://img.icons8.com/fluency/50/mail--v1.png)](mailto:akashkumar.cs27@gmail.com)
+[![X](https://img.icons8.com/3d-fluency/50/x.png)](https://x.com/aakass7/)
+
+<!-- <a href="https://<your-portfolio-url>" title="Portfolio">
         <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="50px" alt="Portfolio" style="margin: 0 10px;" />
     </a> -->
-    <a href="https://x.com/aakass7" title="Twitter">
+<!-- <a href="https://x.com/aakass7" title="Twitter">
         <img src="https://img.icons8.com/3d-fluency/94/x.png" width="40px" alt="Twitter" style="margin: 0 5px;" />
-    </a> 
-</p>
+    </a>  -->
+
+<!-- <img src="https://img.icons8.com/fluency/48/mail--v1.png" width="40px" alt="GitHub" style="margin: 0 5px;" />
+</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
