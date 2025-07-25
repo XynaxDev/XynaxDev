@@ -105,10 +105,10 @@
     </a>
     <!-- <a href="https://<your-portfolio-url>" title="Portfolio">
         <img src="https://img.icons8.com/3d-fluency/94/briefcase--v1.png" width="50px" alt="Portfolio" style="margin: 0 10px;" />
-    </a>
-    <a href="https://twitter.com/<your-username>" title="Twitter">
-        <img src="https://img.icons8.com/3d-fluency/94/x.png" width="50px" alt="Twitter" style="margin: 0 10px;" />
     </a> -->
+    <a href="https://x.com/aakass7" title="Twitter">
+        <img src="https://img.icons8.com/3d-fluency/94/x.png" width="40px" alt="Twitter" style="margin: 0 5px;" />
+    </a> 
 </p>
 
 <p align="center">
