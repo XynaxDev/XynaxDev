@@ -42,21 +42,11 @@
 
 <img src="assets/metrics.png" style="margin: 20px 0px;" height=70px alt="metrics" />
 
-<picture align="left">
-  <!-- Dark mode -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF"
-  />
-  <!-- Light mode fallback (identical settings) -->
-  <img
-    alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF"
-    title="GitHub streak stats"
-  />
-</picture>
-
-
+<p>
+    <a href="https://github.com/XynaxDev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynaxDev&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" />
+    </a>
+</p>
 
 <img src="assets/toolbox.png" height=70px alt="toolbox" />
 </div>
