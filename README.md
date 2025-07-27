@@ -1,11 +1,11 @@
-<div>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "280px" >
-</div>
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" height= "280px" > -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/> -->
 
 <!-- <h3 align="center">Aakash</h3> -->
-<br>
 
+<img src="assets/banner1.png">
+
+<br>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=34&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg) -->
 
@@ -13,11 +13,10 @@
 <div align="center">
 <!-- <h1 style="font-size:35px;font-weight:bold"> <b>About Me</b> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" height="30" style="margin-left:5px"/></h1> -->
 
-
-<img style="margin: 10px 0px;" height=100px src="assets/about.png" alt="about-me" />
+<!-- <img style="margin: 10px 0px;" height=100px src="assets/about.png" alt="about-me" /> -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
-![Profile Views~~](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
 
 
 <img src="https://api.statusbadges.me/badge/status/697499988636205137?label=Currently" alt="Status" />
