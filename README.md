@@ -3,7 +3,7 @@
 
 <!-- <h3 align="center">Aakash</h3> -->
 
-<img src="assets/banner1.png">
+<img src="assets/banner2.png">
 
 <br>
 
