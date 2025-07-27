@@ -3,9 +3,8 @@
 
 <!-- <h3 align="center">Aakash</h3> -->
 
-<img src="assets/banner2.png">
+<img style="margin-bottom:12px" src="assets/banner2.png">
 
-<br>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=34&duration=3000&pause=1500&color=DB1CFF&center=true&vCenter=true&width=780&height=60&lines=🛠️Building+Data+Science+Solutions;💌Creating+Smart+Algorithms;🚀Developing+AI+Technologies;💡Coding+Intelligent+Systems;🔍Exploring+AI+Projects;🧾Crafting+Data+Insights;🤖Engineering+ML+Applications;)](https://git.io/typing-svg) -->
 
@@ -17,7 +16,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=XynaxDev&style=flat&color=DB1CFF&label=Profile+Views)
-
 
 <img src="https://api.statusbadges.me/badge/status/697499988636205137?label=Currently" alt="Status" />
 <img src="https://api.statusbadges.me/badge/vscode/697499988636205137?label=Coding" alt="VSCode" />
