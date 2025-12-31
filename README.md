@@ -72,14 +72,14 @@ I integrate ML models with modern full-stack architectures using FastAPI, Flask,
     <img title="meta" alt="meta" src="assets/meta-color.svg" width="50" height="50" style="margin: 5px"/>
     <img title="aistudio" alt="aistudio" src="assets/aistudio.svg" width="50" height="50" style="margin: 5px"/>
     <!-- <img title="llamaindex" alt="llamaindex" src="assets/llamaindex-color.svg" width="50" height="50" style="margin: 5px"/> -->
-    <img title="Django" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50" style="margin: 5px"/>
-    <img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" style="margin: 5px"/>
+    <!-- <img title="Django" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50" style="margin: 5px"/> -->
+    <!-- <img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" style="margin: 5px"/> -->
     <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="margin: 5px"/>
     <img title="HTML" alt="HTML" src="assets/html.svg" width="50" height="50" style="margin: 5px"/>
     <img title="CSS" alt="CSS" src="assets/css.svg" width="50" height="50" style="margin: 5px"/>
     <img title="openrouter" alt="openrouter" src="assets/openrouter.svg" width="50" height="50" style="margin: 5px"/>
     <img title="Tailwind CSS" alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="margin: 5px"/>
-    <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 5px"/>
+    <!-- <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 5px"/> -->
     <img title="n8n" alt="n8n" src="assets/n8n-color.svg" width="50" height="50" style="margin: 5px"/>
     <img title="slack" alt="slack" src="assets/slack.svg" width="50" height="50" style="margin: 5px"/>
     <img title="MySQL" alt="MySQL" src="assets/mysql.png" width="50" height="50" style="margin: 5px"/>
@@ -258,7 +258,7 @@ I integrate ML models with modern full-stack architectures using FastAPI, Flask,
 ---
 
 <p style="font-size: 14px; opacity: 0.9;">
-Made with 💌 by <b>Xynax</b> | <i>Last updated: November 2025 v2.0 </i>
+Made with 💌 by <b>Xynax</b> | <i>Last updated: January 2026 v3.0 </i>
 </p>
 
 </div>
