@@ -71,7 +71,7 @@ I integrate ML models with modern full-stack architectures using FastAPI, Flask,
     <img title="Flask" alt="Flask" src="assets/flask.svg" width="50" height="50" style="margin: 5px"/>
     <img title="meta" alt="meta" src="assets/meta-color.svg" width="50" height="50" style="margin: 5px"/>
     <img title="aistudio" alt="aistudio" src="assets/aistudio.svg" width="50" height="50" style="margin: 5px"/>
-    <img title="llamaindex" alt="llamaindex" src="assets/llamaindex-color.svg" width="50" height="50" style="margin: 5px"/>
+    <!-- <img title="llamaindex" alt="llamaindex" src="assets/llamaindex-color.svg" width="50" height="50" style="margin: 5px"/> -->
     <img title="Django" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50" style="margin: 5px"/>
     <img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" style="margin: 5px"/>
     <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="margin: 5px"/>
